@@ -54,6 +54,6 @@ You are provided with a dataset containing information about customers. The data
 - Recommendations based on insights
 
 ## Submission
-You have until next week Wednesday(24.04.2024) to complete and submit the challenge as a Github link to my email.
+You have until next week Wednesday(24.04.2024) to complete and submit the challenge as a Github link to my email - aadil@slected.me
 
 Feel free to ask if you have any questions or need further clarifications!
